@@ -32,7 +32,7 @@ class Config(object):
     WEBHOOK = None
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
+    SPAMWATCH_API = "oi8dzy8BveDV_Ee5SUhRYTP~Meg7fJLd52dNxzkjcYqGYnOdAdeAePj1hhDIk0iF"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
     BOT_USERNAME = "AnjithRobot"
     BOT_ID = ""
@@ -55,7 +55,7 @@ class Config(object):
     BAN_STICKER = ''  # banhammer marie sticker id, the bot will send this sticker before banning or kicking a user in chat.
     ALLOW_EXCL = True  # Allow ! commands as well as / (Leave this to true so that blacklist can work)
     ARQ_API_URL = "https://thearq.tech"
-    ARQ_API_KEY = "YIECCC-NAJARO-OLLREW-SJSRIP-ARQ"
+    ARQ_API_KEY = "OJABNT-PMDRXG-UPBIPD-CHZLYL-ARQ"
     CASH_API_KEY = 'awoo'  # Get your API key from https://www.alphavantage.co/support/#api-key
     TIME_API_KEY = 'awoo'  # Get your API key from https://timezonedb.com/api
     OPENWEATHERMAP_ID = 'awoo'
